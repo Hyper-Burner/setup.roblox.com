@@ -1,0 +1,20 @@
+{
+  "name": "setup.roblox.com",
+  "version": "1.0.0",
+  "description": "Reimagining the way people come together.",
+  "main": "app.js",
+  "repository": "https://github.com/Hyper-Burner/setup.roblox.com",
+  "author": "Roblox Corporation",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
